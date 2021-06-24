@@ -16,8 +16,8 @@ XAMMP:-
 1. XAMPP is an abbreviation for cross-platform, Apache, MySQL, PHP and Perl, and it allows you to build WordPress site offline, on a local web server on your computer. This simple and lightweight solution works on Windows, Linux, and Mac – hence the “cross-platform” part.
 2. XAMPP helps a local host or server to test its website and clients via computers and laptops before releasing it to the main server. It is a platform that furnishes a suitable environment to test and verify the working of projects based on Apache, Perl, MySQL database, and PHP through the system of the host itself.
 ( XAMPP Apache + MariaDB + PHP + Perl )
-XAMMP Control Panel:-
+-> XAMMP Control Panel:-
 XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl. 
 The XAMPP open source package has been set up to be incredibly easy to install and to use.
-XAMMP Installation link
+-> XAMMP Installation link
 https://www.apachefriends.org/index.html
