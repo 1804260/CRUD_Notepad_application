@@ -21,3 +21,11 @@ XAMPP is a completely free, easy to install Apache distribution containing Maria
 The XAMPP open source package has been set up to be incredibly easy to install and to use.
 -> XAMMP Installation link
 https://www.apachefriends.org/index.html
+
+-> Visual Studio Code (Editor used)
+
+Visual Studio Code is a distribution of the Code - OSS repository with Microsoft specific customizations released under a traditional Microsoft product license.
+
+Visual Studio Code combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. It provides comprehensive code editing, navigation, and understanding support along with lightweight debugging, a rich extensibility model, and lightweight integration with existing tools.
+
+Visual Studio Code is updated monthly with new features and bug fixes. You can download it for Windows, macOS, and Linux on Visual Studio Code's website. To get the latest releases every day, install the Insiders build.
